@@ -38,8 +38,8 @@ I'm a passionate Computer Science and Engineering student specializing in Cloud 
 ## 🚀 Highlighted Projects
 
 <div align="center">
-  <a href="https://github.com/aryanbeni/virtual-assistant">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbeni&repo=virtual-assistant&theme=radical" />
+  <a href="https://github.com/aryanbeni/SRMUH-e-Learning.git">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbeni&repo=SRMUH-e-Learning&theme=radical" />
   </a>
   <a href="https://github.com/aryanbeni/movie-recommendation-platform">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbeni&repo=movie-recommendation-platform&theme=radical" />
