@@ -7,42 +7,42 @@ I'm a passionate Computer Science and Engineering student specializing in Cloud 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanbeni&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbeni&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Aryan's GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanbeni&theme=radical" alt="Aryan's GitHub Streak"/>
 </div>
 
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,flutter,java,javascript,aws,docker,kubernetes,git,linux,jenkins" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=flutter,java,javascript,aws,docker,kubernetes,git,linux,jenkins" alt="Tech Stack"/>
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&column=7&margin-w=15&margin-h=15" alt="Aryan's GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aryanbeni&theme=radical&column=7&margin-w=15&margin-h=15" alt="Aryan's GitHub Trophies"/>
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanbeni&theme=react-dark" alt="Contribution Graph"/>
 </div>
 
 ## 🚀 Highlighted Projects
 
 <div align="center">
-  <a href="https://github.com/yourusername/virtual-assistant">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=virtual-assistant&theme=radical" />
+  <a href="https://github.com/aryanbeni/virtual-assistant">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbeni&repo=virtual-assistant&theme=radical" />
   </a>
-  <a href="https://github.com/yourusername/movie-recommendation-platform">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=movie-recommendation-platform&theme=radical" />
+  <a href="https://github.com/aryanbeni/movie-recommendation-platform">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbeni&repo=movie-recommendation-platform&theme=radical" />
   </a>
 </div>
 
