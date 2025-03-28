@@ -67,7 +67,7 @@ I'm a passionate Computer Science and Engineering student specializing in Cloud 
 ## 📊 Profile Views
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryanbenie&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=aryanbeni&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </div>
 
 ---
