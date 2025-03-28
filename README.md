@@ -45,7 +45,7 @@ I'm a passionate Computer Science and Engineering student specializing in Cloud 
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbeni&repo=make-contact-app&theme=radical" />
   </a>
 </div>
-https://github.com/aryanbeni/SRMUH-elearning
+
 ## 🌟 Key Achievements
 
 - 🏆 Core Team Member at Google Developer Students Club
