@@ -62,7 +62,7 @@ I'm a passionate Computer Science and Engineering student specializing in Cloud 
   <a href="mailto:aryanbeni06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://instagram.com/aryannbeniwal" target="_blank">
+  <a href="https://www.instagram.com/aryannbeniwal/#" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instragram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
