@@ -56,23 +56,20 @@ I'm a passionate Computer Science and Engineering student specializing in Cloud 
 ## 📫 Let's Connect!
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/aryanbeni" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:beniwalaryan6@gmail.com">
+  <a href="mailto:aryanbeni06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
 
 ## 📊 Profile Views
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=aryanbenie&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </div>
 
 ---
 
-⭐️ From [Aryan Beniwala](https://github.com/yourusername)
+⭐️ From [Aryan Beniwal](https://github.com/aryanbeni)
