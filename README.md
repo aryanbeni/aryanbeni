@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Aryan Beniwala!
+# 👋 Hi there, I'm Aryan Beniwal!
 
 ## 🚀 About Me
 
