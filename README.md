@@ -41,8 +41,8 @@ I'm a passionate Computer Science and Engineering student specializing in Cloud 
   <a href="https://github.com/aryanbeni/SRMUH-elearning.git">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbeni&repo=SRMUH-elearning&theme=radical" />
   </a>
-  <a href="https://github.com/aryanbeni/CaFit.git">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbeni&repo=CaFit&theme=radical" />
+  <a href="https://github.com/aryanbeni/proudtester.git">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbeni&repo=proudtester&theme=radical" />
   </a>
 </div>
 
